@@ -23,8 +23,8 @@ To run the experiments, you will need the Python Scientific modules (numpy, scip
 Running the last cells of the notebook with the embeddings, needs downloading them. 
 For English: https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
 From the terminal:
-`
+```
 wget https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.en.zip
 unzip wiki.en.zip
-`
+```
 This requires a lot of space (>10GB). Also loading the embeddings and the model requires a lot of RAM, so take it into account. 
