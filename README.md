@@ -9,12 +9,12 @@ I presented results for the task of Fine Grained Sentiment Analysis for tweets. 
 
 To run the experiments, you will first need to download the data: 
 
-`
+```
 git clone https://github.com/balikasg/FineGrainedSentimentAnalysis.git
 cd FineGrainedSentimentAnalysis
 wget https://www.dropbox.com/s/qqvokdtalf0kgs2/2017_English_final.zip
 unzip 2017_English_final.zip
-`
+```
 
 This will download the repository to the directory "FineGrainedSentimentAnalysis" and also download the SemEval 2017 data and unzip them.
 
